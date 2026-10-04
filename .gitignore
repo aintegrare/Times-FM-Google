@@ -1,0 +1,7 @@
+# ambiente virtual local
+.venv/
+
+# saídas com valores reais do Search Console (dados internos da Integrare)
+experimentos/cf_*.csv
+experimentos/integrare_gsc_timesfm.png
+experimentos/gsc/
